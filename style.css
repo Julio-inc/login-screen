@@ -1,0 +1,10 @@
+#login-title {
+    text-align: center;
+}
+.loginbox {
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* UM EM CIMA DO OUTRO */
+    align-items: center;    /* centraliza os itens */
+    gap: 10px;    
+}
